@@ -1,6 +1,5 @@
 # 💫 About Me:
-# 👋 Hi, I'm Atharva Salunkhe<br><br>🚀 Full-Stack Developer | Digital Marketer | Co-Founder @ BrandBoosters  <br>📍 Mumbai, India  <br><br>I work at the intersection of technology, marketing, and business, building scalable web solutions and driving real-world growth through digital strategies.<br><br>---<br><br>## 💼 About Me<br><br>- 🎓 Pursuing B.Tech (AI + ML) & MBA-Tech  <br>- 🧠 Strong interest in AI, Data Science & Real-World Applications  
-
+# 👋 Hi, I'm Atharva Salunkhe<br><br>🚀 Frontend Developer | Digital Marketer | Co-Founder @ BrandBoosters 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/atharvaa.ks) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/atharva-krishna-salunkhe) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:atharva@brandboosters.marketing) 
