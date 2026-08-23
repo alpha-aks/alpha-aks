@@ -5,7 +5,7 @@
 </picture>
 
 # 💫 About Me:
-# 👋 Hi, I'm Atharva Salunkhe<br><br>🚀 Frontend Developer | Digital Marketer | Co-Founder @ BrandBoosters 
+# 👋 Hi, I'm Atharva Salunkhe<br><br>🚀 Frontend Developer | Digital Marketer | Working @ BrandBoosters 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/atharvaa.ks) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/atharva-krishna-salunkhe) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:atharva@brandboosters.marketing) 
