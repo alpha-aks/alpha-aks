@@ -1,3 +1,9 @@
+<picture>
+	<source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+	<source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+	<img alt="alpha-aks's GitHub profile" src="dark_mode.svg" />
+</picture>
+
 # 💫 About Me:
 # 👋 Hi, I'm Atharva Salunkhe<br><br>🚀 Frontend Developer | Digital Marketer | Co-Founder @ BrandBoosters 
 
